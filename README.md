@@ -39,7 +39,7 @@ To run this notebook, you'll need:
 Install requirements with:
 ```bash
 pip install -r requirements.txt
-
+```
 
 # Awesome ML Model
 
