@@ -39,3 +39,11 @@ To run this notebook, you'll need:
 Install requirements with:
 ```bash
 pip install -r requirements.txt
+
+
+# Awesome ML Model
+
+This repository contains the code for machine learning model.
+
+**Check out the live demo on Streamlit Cloud:**
+https://customerchurnprediction-exrdw9yyfqqtn3heo9mric.streamlit.app/
